@@ -1,0 +1,169 @@
+div{
+    width: 100%;
+    height: 35px;
+    background-color: #dc93eB;
+    padding-top: 10px;
+}
+a{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left:40px;
+}
+h1{
+    color: lightcoral;
+}
+#searchid{
+    border-radius:30px;
+    margin-left: 600px;
+    border: none;
+    height: 20px;
+    padding: 5px;
+    margin-top: -25px;
+}
+#box{
+    border-radius: 10px;
+    float:right;
+    height: 25px;
+   background-color:darkorchid;
+   border: none;
+}
+#img2{
+  width: 100%;
+}
+
+#id1{
+    height: 280px;
+    width: 100%;
+    background-color: #dc93eB;
+}
+.heading1{
+   font-size: 30px;
+   color: white;
+   margin-left: 40px;
+}
+.back{
+  color: cyan;
+}
+.para{
+    font-size: 15px;
+   color: white;
+   margin-left: 40px; 
+}
+.heading2{
+    font-size: 30px;
+    color: white;
+    margin-left: 140px;
+    margin-bottom: 45px;
+ }
+td ul li{
+    font-size: 15px;
+    color: white;
+    margin-left: 150px;
+
+   
+}
+.heading3{
+    font-size: 30px;
+    color: white;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+.form{
+    margin-left: 260px;
+    
+}
+.div2{
+   width: 100%;
+   height: 390px; 
+   background-color: palevioletred;
+ 
+
+}
+.div3{
+    background-color:white;
+    height:250px ;
+    width: 250px;
+    margin-left: 80px;
+    border-radius: 10px;
+}
+.div4{
+    margin-left: 280px;
+    margin-top: -225px;
+    background-color:white;
+    height:250px ;
+    width: 250px;
+    border-radius: 10px;
+   
+}
+.div5{
+    margin-left: 550px;
+    margin-top: -257px;
+    background-color:white;
+    height:250px ;
+    width: 250px;
+    border-radius: 10px;
+   
+}
+.div6{
+    margin-left: 830px;
+    margin-top: -259px;
+    background-color:white;
+    height:250px ;
+    width: 250px;
+    border-radius: 10px; 
+}
+.name{
+    height: 40px;
+    width: 450px;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding-left: 30px;
+}
+.usericon{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 13px;
+}
+.email{
+    height: 40px;
+    width: 450px;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding-left: 30px;
+}
+.emailicon{
+    font-size: 20px;
+    position: absolute;
+   margin-left: 160px;
+    margin-top: 13px;
+}
+.password{
+    height: 40px;
+    width: 450px;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding-left: 30px;
+}
+.lockicon{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 13px;
+}
+.aboutpage{
+    width: 100%;
+    height: 240px;
+    background-color: blueviolet;
+    animation-name: aboutus;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes aboutus {
+       from{background-color: rgba(153, 76, 24, 0.494);}
+       to{background-color: rgb(83, 71, 153);}
+}
